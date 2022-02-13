@@ -5,7 +5,7 @@ Additionally adds trailer variations such as logos, and real-world company liver
 
 For Flatbed Trailers, there are many variations of cargo carried, ranging from wooden cargo, metal pipes, crates, vehicles, etc., There are also light vehicles such as vans.
 
-This plugin is the successor to the ```road vehicle +`` plugin, and is inspired by the Euro truck simulator 2 game and mod.
+This plugin is the successor to the ```road vehicle +``` plugin, and is inspired by the Euro truck simulator 2 game and mod.
 
 More variety will come in the future, for now enjoy what is already in the plugin,Good luck and have a nice day.
 
