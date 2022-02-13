@@ -2,13 +2,8 @@
   {
     "id":"$K012_trucktemp_truck01",
     "type":"car",
+    "auto color":true,
     "frames":[
-      {
-        "bmp":"Truck_Scania_Black.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
       {
         "bmp":"Truck_Scania_White.png",
         "w":16,
@@ -16,25 +11,13 @@
         "count":4
       },
       {
-        "bmp":"Truck_Scania_Cyan.png",
+        "bmp":"Truck_Scania_Gray.png",
         "w":16,
         "h":9,
         "count":4
       },
       {
-        "bmp":"Truck_Scania_MGreen.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Scania_Blue.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Scania_Green.png",
+        "bmp":"Truck_Scania_Black.png",
         "w":16,
         "h":9,
         "count":4
@@ -46,55 +29,7 @@
         "count":4
       },
       {
-        "bmp":"Truck_Scania_Yellow.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Black.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Blue.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Gray.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Green.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_MGreen.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Red.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_White.png",
-        "w":16,
-        "h":9,
-        "count":4
-      },
-      {
-        "bmp":"Truck_Hino_Yellow.png",
+        "bmp":"Truck_Scania_Blue.png",
         "w":16,
         "h":9,
         "count":4

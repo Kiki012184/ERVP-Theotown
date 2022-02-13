@@ -6,6 +6,7 @@
     "speed": 0.9,
     "flag normal": false,
     "flag lkw": true,
+    "frames per variant":4,
     "meta": {"tags": {"carind0": {},"carind1": {},"carind2": {}}},
     "animation":[
       {
@@ -20,7 +21,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer01"]
@@ -32,7 +33,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer02"]
@@ -44,7 +45,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer03"]
@@ -56,7 +57,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer04"]
@@ -68,7 +69,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer05"]
@@ -80,7 +81,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer06"]
@@ -92,7 +93,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer07"]
@@ -104,7 +105,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer08"]
@@ -116,7 +117,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer09"]
@@ -128,7 +129,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer10"]
@@ -140,7 +141,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer11"]
@@ -152,7 +153,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer12"]
@@ -164,7 +165,7 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer13"]
@@ -176,9 +177,21 @@
     "frames": [
       {
         "steal": "$K012_trucktemp_truck01",
-        "count": 84
+        "count": 20
       }
     ],
     "tail": ["$K012_car_trailer14"]
+  },
+  {
+    "id": "$K012_car_truck15",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 20
+      }
+    ],
+    "tail": ["$K012_car_trailer15"]
   }
 ]
