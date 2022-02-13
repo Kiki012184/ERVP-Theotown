@@ -13,3 +13,6 @@ More variety will come in the future, for now enjoy what is already in the plugi
 
 #### Credit:
 TheoTheoderich,Lobby Divinus,JustAnyone And AndyTheNorth
+
+### Contributing & Documentation
+[Tets](CONTRIBUTING.md)
