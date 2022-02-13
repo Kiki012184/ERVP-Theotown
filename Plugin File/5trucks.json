@@ -1,0 +1,171 @@
+[
+  //.
+  {
+    "id": "$K012_car_truck01",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer01"]
+  },
+  {
+    "id": "$K012_car_truck02",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer02"]
+  },
+  {
+    "id": "$K012_car_truck03",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer03"]
+  },
+  {
+    "id": "$K012_car_truck04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer04"]
+  },
+  {
+    "id": "$K012_car_truck05",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer05"]
+  },
+  {
+    "id": "$K012_car_truck06",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer06"]
+  },
+  {
+    "id": "$K012_car_truck07",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer07"]
+  },
+  {
+    "id": "$K012_car_truck08",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer08"]
+  },
+  {
+    "id": "$K012_car_truck09",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer09"]
+  },
+  {
+    "id": "$K012_car_truck10",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer10"]
+  },
+  {
+    "id": "$K012_car_truck11",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer11"]
+  },
+  {
+    "id": "$K012_car_truck12",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer12"]
+  },
+  {
+    "id": "$K012_car_truck13",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer13"]
+  },
+  {
+    "id": "$K012_car_truck14",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer14"]
+  }
+]

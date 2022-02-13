@@ -1,0 +1,468 @@
+[
+  {
+    "id": "$K012_car_trailer01",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Hopper_Logo_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Hopper_Logo_Red.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Hopper_Logo_Green.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Hopper00",
+        "x":-15
+      }
+    ]
+  },
+  //Hopper 3/4
+  {
+    "id": "$K012_car_trailer02",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Open_Cargo_Coal.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Open_Cargo_Iron.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Open_Cargo_Sand.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //OpenWagon 3/4
+  {
+    "id": "$K012_car_trailer03",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Box_Line_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Line_Red.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Line_Yellow.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Line_Green.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //Box Line A 4/4
+  {
+    "id": "$K012_car_trailer04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Box_Company_DBSchen.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Company_DHL.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Company_Kamelia.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Company_Krone.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //Box Company A 4/4
+  {
+    "id": "$K012_car_trailer05",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Flatbed_Empty_Empty.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_Wood.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_Steelbar.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_Crate.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Flatbed00",
+        "x":-15
+      }
+    ]
+  },
+  //Flatbed A 4/4
+  {
+    "id": "$K012_car_trailer06",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Box_Company_Norcargo.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Company_Transnet.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //Box Company B 2/4
+  {
+    "id": "$K012_car_trailer07",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Tanker_Company_Kass.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Tanker_Company_mammut.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Tanker_Company_orlen.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Tanker_Company_shell.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Tanker00",
+        "x":-15
+      }
+    ]
+  },
+  //Tanker Company 4/4
+  {
+    "id": "$K012_car_trailer08",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Tanker_Line_Red.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Tanker_Line_Yellow.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Tanker_Line_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Tanker00",
+        "x":-15
+      }
+    ]
+  },
+  //Tanker Line 3/4
+  {
+    "id": "$K012_car_trailer09",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Flatbed_Cargo_ConcretePipe.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_Copperrod.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_Hay.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Flatbed_Cargo_LargePipe.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Flatbed00",
+        "x":-15
+      }
+    ]
+  },
+  //Flatbed B 4/4
+  {
+    "id": "$K012_car_trailer10",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Box_LineB_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_LineB_red.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_LineB_Green.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_LineB_Yellow.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  // Box Line B 4/4 *
+  {
+    "id": "$K012_car_trailer11",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Container_Blank_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Container_Blank_Cyan.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Container_Blank_Green.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Container_Blank_Lime.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  // Container Blank A 4/4
+  {
+    "id": "$K012_car_trailer12",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Container_Blank_White.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Container_Blank_Yellow.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //Container Blank A 2/4 
+  {
+    "id": "$K012_car_trailer13",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Container_Company_EverGreen.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Container_Company_Maerks.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  },
+  //Container Company 2/4 
+  {
+    "id": "$K012_car_trailer14",
+    "type": "car",
+    "template":"$RVPK012_Temp_Trailer00",
+    "frames": [
+      {
+        "bmp": "Trailer_Box_Blank_Blue.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Trailer_Box_Blank_White.png",
+        "w": 20,
+        "h": 13,
+        "count": 4
+      }
+    ],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_Box00",
+        "x":-15
+      }
+    ]
+  }
+  //Box Blank A 2/4
+]

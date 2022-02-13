@@ -1,0 +1,101 @@
+[
+  {
+    "id": "$RVPK012_ANI_Truck00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "TruckN1.png",
+        "w": 16,
+        "handle x":-4,
+        "handle y":3
+      },
+      {
+        "bmp": "TruckN0.png",
+        "w": 16
+      },
+      {
+        "bmp": "TruckN0.png",
+        "w": 16
+      },
+      {
+        "bmp": "TruckN4.png",
+        "w": 16,
+        "handle x":-4,
+        "handle y":9
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Box00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "BoxN.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Flatbed00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "FlatbedN.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Tanker00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "TankerN.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Hopper00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "HopperN.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_TruckS00",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "TruckSN.png",
+        "count": 4,
+        "w": 16
+      }
+    ]
+  }
+]

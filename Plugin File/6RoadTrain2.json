@@ -1,0 +1,171 @@
+[
+  //.
+  {
+    "id": "$K012_car_roadtrain01",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer01","$K012_car_conector00","$K012_car_trailer01"]
+  },
+  {
+    "id": "$K012_car_roadtrain02",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer02","$K012_car_conector00","$K012_car_trailer02"]
+  },
+  {
+    "id": "$K012_car_roadtrain03",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer03","$K012_car_conector00","$K012_car_trailer03"]
+  },
+  {
+    "id": "$K012_car_roadtrain04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer04","$K012_car_conector00","$K012_car_trailer04"]
+  },
+  {
+    "id": "$K012_car_roadtrain05",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer05","$K012_car_conector00","$K012_car_trailer05"]
+  },
+  {
+    "id": "$K012_car_roadtrain06",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer06","$K012_car_conector00","$K012_car_trailer06"]
+  },
+  {
+    "id": "$K012_car_roadtrain07",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer07","$K012_car_conector00","$K012_car_trailer07"]
+  },
+  {
+    "id": "$K012_car_roadtrain08",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer08","$K012_car_conector00","$K012_car_trailer08"]
+  },
+  {
+    "id": "$K012_car_roadtrain09",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer09","$K012_car_conector00","$K012_car_trailer09"]
+  },
+  {
+    "id": "$K012_car_roadtrain10",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer10","$K012_car_conector00","$K012_car_trailer10"]
+  },
+  {
+    "id": "$K012_car_roadtrain101",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer11","$K012_car_conector00","$K012_car_trailer11"]
+  },
+  {
+    "id": "$K012_car_roadtrain12",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer12","$K012_car_conector00","$K012_car_trailer12"]
+  },
+  {
+    "id": "$K012_car_roadtrain13",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer13","$K012_car_conector00","$K012_car_trailer13"]
+  },
+  {
+    "id": "$K012_car_roadtrain14",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 68
+      }
+    ],
+    "tail": ["$K012_car_trailer14","$K012_car_conector00","$K012_car_trailer14"]
+  }
+]
