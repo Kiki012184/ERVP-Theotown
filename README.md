@@ -15,4 +15,4 @@ More variety will come in the future, for now enjoy what is already in the plugi
 TheoTheoderich,Lobby Divinus,JustAnyone And AndyTheNorth
 
 ### Contributing & Documentation
-[Tets](CONTRIBUTING.md)
+Click [This](CONTRIBUTING.md) to read about how to contribute to this project.
