@@ -1,52 +1,5 @@
 [
   {
-    "id":"$RVPK012_Temp_Trailer00",
-    "type":"template",
-    "v2": [-1, 1, 2, 1]
-    },
-    {
-    "id":"$RVPK012_Temp_Truck00",
-    "type":"template",
-    "speed": 0.9,
-    "flag normal": false,
-    "flag lkw": true,
-    "meta": {"tags": {"carind0": {},"carind1": {},"carind2": {}}},
-    "animation":[
-      {
-        "id":"$RVPK012_ANI_Truck00"
-      }
-    ]
-  },
-    {
-    "id":"$RVPK012_Temp_Truck02",
-    "type":"template",
-    "speed": 0.9,
-    "flag normal": false,
-    "flag lkw": true,
-    "meta": {"tags": {"carind1": {},"carind2": {}}},
-    "animation":[
-      {
-        "id":"$RVPK012_ANI_Truck00"
-      }
-    ]
-  },
-  {
-    "id":"$RVPK012_Temp_Truck01",
-    "type":"template",
-    "speed": 0.9,
-    "flag normal": false,
-    "flag lkw": true,
-    "meta": {"tags": {"carind0": {},"carind1": {},"carind2": {},"carcom0": {},"carcom1": {}}},
-    "v2": [1, 1, 2, 1],
-    "animation":[
-      {
-        "id":"$RVPK012_ANI_TruckS00",
-        "x":-5
-      }
-    ]
-  },
-  {
-
     "id":"$K012_trucktemp_truck01",
     "type":"car",
     "frames":[
@@ -70,6 +23,30 @@
       },
       {
         "bmp":"Truck_Scania_MGreen.png",
+        "w":16,
+        "h":9,
+        "count":4
+      },
+      {
+        "bmp":"Truck_Scania_Blue.png",
+        "w":16,
+        "h":9,
+        "count":4
+      },
+      {
+        "bmp":"Truck_Scania_Green.png",
+        "w":16,
+        "h":9,
+        "count":4
+      },
+      {
+        "bmp":"Truck_Scania_Red.png",
+        "w":16,
+        "h":9,
+        "count":4
+      },
+      {
+        "bmp":"Truck_Scania_Yellow.png",
         "w":16,
         "h":9,
         "count":4
@@ -126,7 +103,6 @@
     "frames per variant":4,
     "speed":0.9,
     "v2":[1,2,3,3],
-    "template":["$RVPK012_Temp_Truck00","$RVPK012_Temp_Truck02"],
     "flag normal":false,
     "flag lkw":true,
     "meta":{"tags":{"carind0":{},"carind1":{},"carind2":{}}}
@@ -137,7 +113,7 @@
     "v2": [1, 2, 3, 3],
     "frames": [
       {
-        "bmp": "Connector.png",
+        "bmp": "Trailer_Connector.png",
         "w": 16,
         "h": 9,
         "count": 4

@@ -1,0 +1,119 @@
+[
+  {
+    "id":"$RVPK012_Temp_Car01",
+    "type":"template",
+    "flag normal": false,
+    "flag pkw": true,
+    "autocolor":true,
+    "meta": {"tags": {"carres0": {},"carres1": {},"carres2": {},"carcom0": {}}},
+    "v2": [1, 2, 3, 3],
+    "frames per car":4
+  },
+  {
+    "id": "$K012_car_car00",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_Car_01.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Car_02.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Car_03.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  },
+    {
+    "id": "$K012_car_car01",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_Car_04.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Car_05.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Car_06.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_MiniBus_01.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car05",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_Van_Company_DHL.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car06",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_Van_Line_Red.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Line_Blue.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Line_Yellow.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Line_Green.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  }
+]

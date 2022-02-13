@@ -1,5 +1,11 @@
 [
   {
+    "id":"$RVPK012_Temp_Trailer00",
+    "type":"template",
+    "v2": [-1, 1, 2, 1],
+    "frames per variant":4
+  },
+  {
     "id": "$K012_car_trailer01",
     "type": "car",
     "template":"$RVPK012_Temp_Trailer00",

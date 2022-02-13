@@ -7,21 +7,21 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "TruckN1.png",
+        "bmp": "Ani_Truck_Part1.png",
         "w": 16,
         "handle x":-4,
         "handle y":3
       },
       {
-        "bmp": "TruckN0.png",
+        "bmp": "Ani_Truck_Part0.png",
         "w": 16
       },
       {
-        "bmp": "TruckN0.png",
+        "bmp": "Ani_Truck_Part0.png",
         "w": 16
       },
       {
-        "bmp": "TruckN4.png",
+        "bmp": "Ani_Truck_Part2.png",
         "w": 16,
         "handle x":-4,
         "handle y":9
@@ -36,7 +36,7 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "BoxN.png",
+        "bmp": "Anim_Trailer_Box.png",
         "count": 4,
         "w": 20
       }
@@ -50,7 +50,7 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "FlatbedN.png",
+        "bmp": "Anim_Trailer_Flatbed.png",
         "count": 4,
         "w": 20
       }
@@ -64,7 +64,7 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "TankerN.png",
+        "bmp": "Anim_Trailer_Tanker.png",
         "count": 4,
         "w": 20
       }
@@ -78,7 +78,7 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "HopperN.png",
+        "bmp": "Anim_Trailer_Hopper.png",
         "count": 4,
         "w": 20
       }
@@ -92,7 +92,7 @@
     "rotation aware": true,
     "frames": [
       {
-        "bmp": "TruckSN.png",
+        "bmp": "Ani_Truck_single.png",
         "count": 4,
         "w": 16
       }

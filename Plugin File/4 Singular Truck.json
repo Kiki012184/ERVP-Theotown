@@ -1,0 +1,125 @@
+[
+  {
+    "id":"$RVPK012_Temp_Truck01",
+    "type":"template",
+    "speed": 0.9,
+    "flag normal": false,
+    "flag lkw": true,
+    "meta": {"tags": {"carind0": {},"carind1": {},"carind2": {},"carcom0": {},"carcom1": {}}},
+    "v2": [1, 1, 2, 1],
+    "animation":[
+      {
+        "id":"$RVPK012_ANI_TruckS00",
+        "x":-5
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_truckS01",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck01",
+    "frames": [
+      {
+        "bmp":"Truck_Single_Line_Blue.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Line_Red.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Line_Green.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Line_Yellow.png",
+        "count":4,
+        "w":16
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_truckS02",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck01",
+    "frames": [
+      {
+        "bmp":"Truck_Single_LineB_Blue.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_LineB_Red.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_LineB_Green.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_LineB_Yellow.png",
+        "count":4,
+        "w":16
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_truckS03",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck01",
+    "frames": [
+      {
+        "bmp":"Truck_Single_Company_Dacher.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_Termo.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_Tesco.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_Vegetables.png",
+        "count":4,
+        "w":16
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_truckS04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck01",
+    "frames": [
+      {
+        "bmp":"Truck_Single_Company_Vac.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_Eco.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_EcoB.png",
+        "count":4,
+        "w":16
+      },
+      {
+        "bmp":"Truck_Single_Company_CookingOil.png",
+        "count":4,
+        "w":16
+      }
+    ]
+  }
+]
