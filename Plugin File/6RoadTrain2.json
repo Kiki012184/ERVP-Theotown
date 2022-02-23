@@ -24,7 +24,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer01","$K012_car_conector00","$K012_car_trailer01"]
+    "tail": ["$K012_car_trailer01","$K012_car_dtrailer01"]
   },
   {
     "id": "$K012_car_roadtrain02",
@@ -36,7 +36,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer02","$K012_car_conector00","$K012_car_trailer02"]
+    "tail": ["$K012_car_trailer02","$K012_car_dtrailer02"]
   },
   {
     "id": "$K012_car_roadtrain03",
@@ -48,7 +48,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer03","$K012_car_conector00","$K012_car_trailer03"]
+    "tail": ["$K012_car_trailer03","$K012_car_dtrailer03"]
   },
   {
     "id": "$K012_car_roadtrain04",
@@ -60,7 +60,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer04","$K012_car_conector00","$K012_car_trailer04"]
+    "tail": ["$K012_car_trailer04","$K012_car_dtrailer04"]
   },
   {
     "id": "$K012_car_roadtrain05",
@@ -72,7 +72,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer05","$K012_car_conector00","$K012_car_trailer05"]
+    "tail": ["$K012_car_trailer05","$K012_car_dtrailer05"]
   },
   {
     "id": "$K012_car_roadtrain06",
@@ -84,7 +84,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer06","$K012_car_conector00","$K012_car_trailer06"]
+    "tail": ["$K012_car_trailer06","$K012_car_dtrailer06"]
   },
   {
     "id": "$K012_car_roadtrain07",
@@ -96,7 +96,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer07","$K012_car_conector00","$K012_car_trailer07"]
+    "tail": ["$K012_car_trailer07","$K012_car_dtrailer07"]
   },
   {
     "id": "$K012_car_roadtrain08",
@@ -108,7 +108,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer08","$K012_car_conector00","$K012_car_trailer08"]
+    "tail": ["$K012_car_trailer08","$K012_car_dtrailer08"]
   },
   {
     "id": "$K012_car_roadtrain09",
@@ -120,7 +120,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer09","$K012_car_conector00","$K012_car_trailer09"]
+    "tail": ["$K012_car_trailer09","$K012_car_dtrailer09"]
   },
   {
     "id": "$K012_car_roadtrain10",
@@ -132,7 +132,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer10","$K012_car_conector00","$K012_car_trailer10"]
+    "tail": ["$K012_car_trailer10","$K012_car_dtrailer10"]
   },
   {
     "id": "$K012_car_roadtrain101",
@@ -144,7 +144,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer11","$K012_car_conector00","$K012_car_trailer11"]
+    "tail": ["$K012_car_trailer11","$K012_car_dtrailer11"]
   },
   {
     "id": "$K012_car_roadtrain12",
@@ -156,7 +156,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer12","$K012_car_conector00","$K012_car_trailer12"]
+    "tail": ["$K012_car_trailer12","$K012_car_dtrailer12"]
   },
   {
     "id": "$K012_car_roadtrain13",
@@ -168,7 +168,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer13","$K012_car_conector00","$K012_car_trailer13"]
+    "tail": ["$K012_car_trailer13","$K012_car_dtrailer13"]
   },
   {
     "id": "$K012_car_roadtrain14",
@@ -180,7 +180,7 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer14","$K012_car_conector00","$K012_car_trailer14"]
+    "tail": ["$K012_car_trailer14","$K012_car_dtrailer14"]
   },
   {
     "id": "$K012_car_roadtrain15",
@@ -192,6 +192,18 @@
         "count": 20
       }
     ],
-    "tail": ["$K012_car_trailer15","$K012_car_conector00","$K012_car_trailer15"]
+    "tail": ["$K012_car_trailer15","$K012_car_dtrailer15"]
+  },
+  {
+    "id": "$K012_car_roadtrain16",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck02",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 20
+      }
+    ],
+    "tail": ["$K012_car_trailer16","$K012_car_dtrailer16"]
   }
 ]

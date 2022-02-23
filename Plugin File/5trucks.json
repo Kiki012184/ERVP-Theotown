@@ -193,5 +193,17 @@
       }
     ],
     "tail": ["$K012_car_trailer15"]
+  },
+  {
+    "id": "$K012_car_truck16",
+    "type": "car",
+    "template":"$RVPK012_Temp_Truck00",
+    "frames": [
+      {
+        "steal": "$K012_trucktemp_truck01",
+        "count": 20
+      }
+    ],
+    "tail": ["$K012_car_trailer16"]
   }
 ]

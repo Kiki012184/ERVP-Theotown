@@ -60,33 +60,7 @@
     ]
   },
   {
-    "id": "$K012_car_car04",
-    "type": "car",
-    "template":"$RVPK012_Temp_Car01",
-    "frames": [
-      {
-        "bmp": "Vehicle_MiniBus_01.png",
-        "w": 16,
-        "h": 9,
-        "count": 4
-      }
-    ]
-  },
-  {
-    "id": "$K012_car_car05",
-    "type": "car",
-    "template":"$RVPK012_Temp_Car01",
-    "frames": [
-      {
-        "bmp": "Vehicle_Van_Company_DHL.png",
-        "w": 16,
-        "h": 9,
-        "count": 4
-      }
-    ]
-  },
-  {
-    "id": "$K012_car_car06",
+    "id": "$K012_car_car02",
     "type": "car",
     "template":"$RVPK012_Temp_Car01",
     "frames": [
@@ -112,6 +86,187 @@
         "bmp": "Vehicle_Van_Line_Green.png",
         "w": 16,
         "h": 9,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car03",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "frames": [
+      {
+        "bmp": "Vehicle_Van_Logo1.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Logo2.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Logo3.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Van_Logo4.png",
+        "w": 16,
+        "h": 9,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car04",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "v2":true,
+    "frames": [
+      {
+        "bmp": "Vehicle_Pickup1.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup2.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup3.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup4.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup5.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup6.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_Pickup7.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car05",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "v2":true,
+    "frames": [
+      {
+        "bmp": "Vehicle_sedan1.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan2.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan3.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan4.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan5.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan6.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_sedan7.png",
+        "w": 13,
+        "h": 13,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "$K012_car_car06",
+    "type": "car",
+    "template":"$RVPK012_Temp_Car01",
+    "v2":true,
+    "frames": [
+      {
+        "bmp": "Vehicle_stationwagon1.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon2.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon3.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon4.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon5.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon6.png",
+        "w": 13,
+        "h": 11,
+        "count": 4
+      },
+      {
+        "bmp": "Vehicle_stationwagon7.png",
+        "w": 13,
+        "h": 11,
         "count": 4
       }
     ]

@@ -1,31 +1,31 @@
 [
   {
-    "id":"$RVPK012_Temp_Trailer00",
+    "id":"$RVPK012_Temp_dtrailer00",
     "type":"template",
-    "v2": [-1, 1, 2, 1],
+    "v2": [-1, 0, 1, 1],
     "frames per variant":4
   },
   {
-    "id": "$K012_car_trailer01",
+    "id": "$K012_car_dtrailer01",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Hopper_Logo_Blue.png",
+        "bmp": "TrailerB_Hopper_Logo_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Hopper_Logo_Red.png",
+        "bmp": "TrailerB_Hopper_Logo_Red.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Hopper_Logo_Green.png",
+        "bmp": "TrailerB_Hopper_Logo_Green.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -38,26 +38,26 @@
   },
   //Hopper 3/4
   {
-    "id": "$K012_car_trailer02",
+    "id": "$K012_car_dtrailer02",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Open_Cargo_Coal.png",
+        "bmp": "TrailerB_Open_Cargo_Coal.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Open_Cargo_Iron.png",
+        "bmp": "TrailerB_Open_Cargo_Iron.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Open_Cargo_Sand.png",
+        "bmp": "TrailerB_Open_Cargo_Sand.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -70,32 +70,32 @@
   },
   //OpenWagon 3/4
   {
-    "id": "$K012_car_trailer03",
+    "id": "$K012_car_dtrailer03",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Line_Blue.png",
+        "bmp": "TrailerB_Box_Line_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Line_Red.png",
+        "bmp": "TrailerB_Box_Line_Red.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Line_Yellow.png",
+        "bmp": "TrailerB_Box_Line_Yellow.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Line_Green.png",
+        "bmp": "TrailerB_Box_Line_Green.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -108,32 +108,32 @@
   },
   //Box Line A 4/4
   {
-    "id": "$K012_car_trailer04",
+    "id": "$K012_car_dtrailer04",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Company_DBSchen.png",
+        "bmp": "TrailerB_Box_Company_DBSchen.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_DHL.png",
+        "bmp": "TrailerB_Box_Company_DHL.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_Kamelia.png",
+        "bmp": "TrailerB_Box_Company_Kamelia.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_Krone.png",
+        "bmp": "TrailerB_Box_Company_Krone.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -146,32 +146,32 @@
   },
   //Box Company A 4/4
   {
-    "id": "$K012_car_trailer05",
+    "id": "$K012_car_dtrailer05",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Flatbed_Empty_Empty.png",
+        "bmp": "TrailerB_Flatbed_Empty_Empty.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Wood.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Wood.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Steelbar.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Steelbar.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Crate.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Crate.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -184,32 +184,32 @@
   },
   //Flatbed A 4/4
   {
-    "id": "$K012_car_trailer06",
+    "id": "$K012_car_dtrailer06",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Company_Norcargo.png",
+        "bmp": "TrailerB_Box_Company_Norcargo.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_Transnet.png",
+        "bmp": "TrailerB_Box_Company_Transnet.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_Penny.png",
+        "bmp": "TrailerB_Box_Company_Penny.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_BeaconRoadway.png",
+        "bmp": "TrailerB_Box_Company_BeaconRoadway.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -222,32 +222,32 @@
   },
   //Box Company B 4/4
   {
-    "id": "$K012_car_trailer07",
+    "id": "$K012_car_dtrailer07",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Tanker_Company_Kass.png",
+        "bmp": "TrailerB_Tanker_Company_Kass.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Tanker_Company_mammut.png",
+        "bmp": "TrailerB_Tanker_Company_mammut.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Tanker_Company_orlen.png",
+        "bmp": "TrailerB_Tanker_Company_orlen.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Tanker_Company_shell.png",
+        "bmp": "TrailerB_Tanker_Company_shell.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -260,26 +260,26 @@
   },
   //Tanker Company 4/4
   {
-    "id": "$K012_car_trailer08",
+    "id": "$K012_car_dtrailer08",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Tanker_Line_Red.png",
+        "bmp": "TrailerB_Tanker_Line_Red.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Tanker_Line_Yellow.png",
+        "bmp": "TrailerB_Tanker_Line_Yellow.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Tanker_Line_Blue.png",
+        "bmp": "TrailerB_Tanker_Line_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -292,38 +292,38 @@
   },
   //Tanker Line 3/4
   {
-    "id": "$K012_car_trailer09",
+    "id": "$K012_car_dtrailer09",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Flatbed_Cargo_ConcretePipe.png",
+        "bmp": "TrailerB_Flatbed_Cargo_ConcretePipe.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Copperrod.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Copperrod.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Hay.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Hay.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_LargePipe.png",
+        "bmp": "TrailerB_Flatbed_Cargo_LargePipe.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Flatbed_Cargo_Tractor.png",
+        "bmp": "TrailerB_Flatbed_Cargo_Tractor.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -336,32 +336,32 @@
   },
   //Flatbed B 4/4
   {
-    "id": "$K012_car_trailer10",
+    "id": "$K012_car_dtrailer10",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_LineB_Blue.png",
+        "bmp": "TrailerB_Box_LineB_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_LineB_red.png",
+        "bmp": "TrailerB_Box_LineB_red.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_LineB_Green.png",
+        "bmp": "TrailerB_Box_LineB_Green.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_LineB_Yellow.png",
+        "bmp": "TrailerB_Box_LineB_Yellow.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -374,32 +374,32 @@
   },
   // Box Line B 4/4 *
   {
-    "id": "$K012_car_trailer11",
+    "id": "$K012_car_dtrailer11",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Container_Blank_Blue.png",
+        "bmp": "TrailerB_Container_Blank_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Container_Blank_Cyan.png",
+        "bmp": "TrailerB_Container_Blank_Cyan.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Container_Blank_Green.png",
+        "bmp": "TrailerB_Container_Blank_Green.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Container_Blank_Lime.png",
+        "bmp": "TrailerB_Container_Blank_Lime.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -412,20 +412,20 @@
   },
   // Container Blank A 4/4
   {
-    "id": "$K012_car_trailer12",
+    "id": "$K012_car_dtrailer12",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Container_Blank_White.png",
+        "bmp": "TrailerB_Container_Blank_White.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Container_Blank_Yellow.png",
+        "bmp": "TrailerB_Container_Blank_Yellow.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -438,20 +438,20 @@
   },
   //Container Blank A 2/4 
   {
-    "id": "$K012_car_trailer13",
+    "id": "$K012_car_dtrailer13",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Container_Company_EverGreen.png",
+        "bmp": "TrailerB_Container_Company_EverGreen.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Container_Company_Maerks.png",
+        "bmp": "TrailerB_Container_Company_Maerks.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -464,32 +464,32 @@
   },
   //Container Company 2/4 
   {
-    "id": "$K012_car_trailer14",
+    "id": "$K012_car_dtrailer14",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Blank_Blue.png",
+        "bmp": "TrailerB_Box_Blank_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Blank_White.png",
+        "bmp": "TrailerB_Box_Blank_White.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Blank_Green.png",
+        "bmp": "TrailerB_Box_Blank_Green.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Blank_Lime.png",
+        "bmp": "TrailerB_Box_Blank_Lime.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -502,26 +502,26 @@
   },
   //Box Blank A 4/4
   {
-    "id": "$K012_car_trailer15",
+    "id": "$K012_car_dtrailer15",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Blank_Blue.png",
+        "bmp": "TrailerB_Box_Blank_Blue.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Blank_White.png",
+        "bmp": "TrailerB_Box_Blank_White.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Blank_Cyan.png",
+        "bmp": "TrailerB_Box_Blank_Cyan.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
@@ -534,20 +534,20 @@
   },
   //Box Blank B 1(3)/4 *
   {
-    "id": "$K012_car_trailer16",
+    "id": "$K012_car_dtrailer16",
     "type": "car",
-    "template":"$RVPK012_Temp_Trailer00",
+    "template":"$RVPK012_Temp_dtrailer00",
     "frames": [
       {
-        "bmp": "Trailer_Box_Company_Ikea.png",
+        "bmp": "TrailerB_Box_Company_Ikea.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       },
       {
-        "bmp": "Trailer_Box_Company_FutterHaus.png",
+        "bmp": "TrailerB_Box_Company_FutterHaus.png",
         "w": 20,
-        "h": 13,
+        "h": 15,
         "count": 4
       }
     ],
