@@ -31,7 +31,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Hopper00",
+        "id":"$RVPK012_ANI_Hopper01",
         "x":-15
       }
     ]
@@ -63,7 +63,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -101,7 +101,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -139,7 +139,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -177,7 +177,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Flatbed00",
+        "id":"$RVPK012_ANI_Flatbed01",
         "x":-15
       }
     ]
@@ -215,7 +215,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -253,7 +253,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Tanker00",
+        "id":"$RVPK012_ANI_Tanker01",
         "x":-15
       }
     ]
@@ -285,7 +285,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Tanker00",
+        "id":"$RVPK012_ANI_Tanker01",
         "x":-15
       }
     ]
@@ -329,12 +329,12 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Flatbed00",
+        "id":"$RVPK012_ANI_Flatbed01",
         "x":-15
       }
     ]
   },
-  //Flatbed B 4/4
+  //Flatbed B 5/4
   {
     "id": "$K012_car_dtrailer10",
     "type": "car",
@@ -367,7 +367,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -405,7 +405,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -431,7 +431,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -457,7 +457,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -495,7 +495,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -527,7 +527,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]
@@ -553,7 +553,7 @@
     ],
     "animation":[
       {
-        "id":"$RVPK012_ANI_Box00",
+        "id":"$RVPK012_ANI_Box01",
         "x":-15
       }
     ]

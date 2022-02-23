@@ -43,6 +43,20 @@
     ]
   },
   {
+    "id": "$RVPK012_ANI_Box01",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "Anim_TrailerB_Box.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
     "id": "$RVPK012_ANI_Flatbed00",
     "type": "animation",
     "light": true,
@@ -51,6 +65,20 @@
     "frames": [
       {
         "bmp": "Anim_Trailer_Flatbed.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Flatbed01",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "Anim_TrailerB_Flatbed.png",
         "count": 4,
         "w": 20
       }
@@ -71,6 +99,20 @@
     ]
   },
   {
+    "id": "$RVPK012_ANI_Tanker01",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "Anim_TrailerB_Tanker.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
     "id": "$RVPK012_ANI_Hopper00",
     "type": "animation",
     "light": true,
@@ -79,6 +121,20 @@
     "frames": [
       {
         "bmp": "Anim_Trailer_Hopper.png",
+        "count": 4,
+        "w": 20
+      }
+    ]
+  },
+  {
+    "id": "$RVPK012_ANI_Hopper01",
+    "type": "animation",
+    "light": true,
+    "light switching": true,
+    "rotation aware": true,
+    "frames": [
+      {
+        "bmp": "Anim_TrailerB_Hopper.png",
         "count": 4,
         "w": 20
       }
